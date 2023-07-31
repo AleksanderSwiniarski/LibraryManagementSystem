@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "user": "librarian",
+      "pwd": "123"
+    },
+    {
+      "user": "olek",
+      "pwd": "123",
+      "id": 5
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "author": "Jeremy Clarkson",
+      "title": "Can You Make This Thing Go Faster",
+      "publisher": "Penguin Random House UK",
+      "date": 2020,
+      "user": "",
+      "reserved": "",
+      "leased": ""
+    },
+    {
+      "id": 2,
+      "author": "Jeremy Clarkson",
+      "title": "Diddly Squat - a Year on the Farm",
+      "date": 2020,
+      "publisher": "Penguin Random House UK",
+      "user": "",
+      "reserved": "",
+      "leased": ""
+    },
+    {
+      "author": "Stanislaw Lem",
+      "date": 1982,
+      "id": 3,
+      "leased": "",
+      "publisher": "Wydawnictwo Literackie",
+      "reserved": "",
+      "title": "Dzienniki gwiazdowe",
+      "user": ""
+    },
+    {
+      "author": "Stanislaw Lem",
+      "date": 2015,
+      "id": 4,
+      "leased": "",
+      "publisher": "Wydawnictwo Literackie",
+      "reserved": "",
+      "title": "Cyberiada",
+      "user": ""
+    }
+  ]
+}
